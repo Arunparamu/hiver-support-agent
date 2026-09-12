@@ -1,0 +1,19 @@
+# Backend
+backend/target/
+backend/.mvn/
+*.class
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Eval artifacts (generated, not committed — see eval/compute_judge_agreement.py)
+eval/judge_output.json
+eval/metrics_report.md
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.iml

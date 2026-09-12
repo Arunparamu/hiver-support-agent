@@ -1,0 +1,37 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: hiver-support-agent
+
+# ---------------------------------------------------------------------------
+# LLM configuration. If llm.api-key is blank, the system runs in
+# "no-LLM fallback" mode: classification falls back to the keyword baseline
+# and reply drafting falls back to templated-from-retrieval replies.
+# This means the whole pipeline is runnable and demo-able with ZERO api key
+# (deterministic, free, offline) -- important for the "reproduce in 15 min"
+# requirement. Set the key to unlock the LLM-backed classifier/drafter/judge.
+# ---------------------------------------------------------------------------
+llm:
+  provider: openai            # openai | anthropic  (both use simple HTTP; see LlmClientService)
+  api-key: ${LLM_API_KEY:}
+  base-url: ${LLM_BASE_URL:https://api.openai.com/v1}
+  model: ${LLM_MODEL:gpt-4o-mini}
+  timeout-seconds: 30
+
+data:
+  brand-name: ShopHelp
+  conversations-path: classpath:data/historical_conversations.csv
+  golden-path: classpath:data/golden_eval_set.csv
+
+agent:
+  # Escalation thresholds — see report/DECISION_LOG.md for why these values.
+  min-classifier-confidence: 0.55
+  refund-amount-escalate-threshold: 50.0
+  escalate-keywords: "lawyer,legal action,sue,fraud,kill myself,suicide,self harm,unauthorized charge,chargeback,police,journalist,reporter,news,attorney"
+  anger-keywords: "worst,ridiculous,unacceptable,scam,furious,disgusted,never again,done with,ripoff,rip off"
+
+logging:
+  level:
+    com.hiver.supportagent: INFO

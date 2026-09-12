@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #1c1c1e;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+table {
+  font-variant-numeric: tabular-nums;
+}

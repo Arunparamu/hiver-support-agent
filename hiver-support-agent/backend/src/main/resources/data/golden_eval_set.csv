@@ -1,0 +1,202 @@
+id,customer_text,gold_intent,gold_escalate,sample_group,notes
+1,"@ShopHelp just checking in on my order 378428, still says processing",order_status,False,proportional,
+2,@ShopHelp any update on order 749840? it's been 8 days,order_status,False,proportional,
+3,"@ShopHelp tracking says 'label created' for 8 days now on order 428930, is it actually shipped??",order_status,False,proportional,
+4,@ShopHelp any update on order 741181? it's been 10 days,order_status,False,proportional,
+5,"@ShopHelp tracking says 'label created' for 10 days now on order 794395, is it actually shipped??",order_status,False,proportional,
+6,"Hi @ShopHelp, can you tell me the status of order #458955? No shipping confirmation yet.",order_status,False,proportional,
+7,@ShopHelp any update on order 392559? it's been 14 days,order_status,False,proportional,
+8,"Hi @ShopHelp, can you tell me the status of order #612756? No shipping confirmation yet.",order_status,False,proportional,
+9,"@ShopHelp tracking says 'label created' for 14 days now on order 809489, is it actually shipped??",order_status,False,proportional,
+10,"@ShopHelp tracking says 'label created' for 3 days now on order 848831, is it actually shipped??",order_status,False,proportional,
+11,"@ShopHelp just checking in on my order 968170, still says processing",order_status,False,proportional,
+12,@ShopHelp hey where is my order #876880? placed it 5 days ago and tracking hasn't moved,order_status,False,proportional,
+13,"Hi @ShopHelp, can you tell me the status of order #155040? No shipping confirmation yet.",order_status,False,proportional,
+14,@ShopHelp any update on order 244144? it's been 2 days,order_status,False,proportional,
+15,"Hi @ShopHelp, can you tell me the status of order #892630? No shipping confirmation yet.",order_status,False,proportional,
+16,@ShopHelp any update on order 343500? it's been 14 days,order_status,False,proportional,
+17,"Hi @ShopHelp, can you tell me the status of order #516278? No shipping confirmation yet.",order_status,False,proportional,
+18,"@ShopHelp tracking says 'label created' for 7 days now on order 212512, is it actually shipped??",order_status,False,proportional,
+19,"Hi @ShopHelp, can you tell me the status of order #240718? No shipping confirmation yet.",order_status,False,proportional,
+20,@ShopHelp hey where is my order #581206? placed it 6 days ago and tracking hasn't moved,order_status,False,proportional,
+21,"@ShopHelp just checking in on my order 894068, still says processing",order_status,False,proportional,
+22,@ShopHelp any update on order 190951? it's been 8 days,order_status,False,proportional,
+23,@ShopHelp any update on order 107161? it's been 6 days,order_status,False,proportional,
+24,"Hi @ShopHelp, can you tell me the status of order #857997? No shipping confirmation yet.",order_status,False,proportional,
+25,"@ShopHelp tracking says 'label created' for 6 days now on order 588002, is it actually shipped??",order_status,False,proportional,
+26,"@ShopHelp just checking in on my order 769737, still says processing",order_status,False,proportional,
+27,"@ShopHelp just checking in on my order 577079, still says processing",order_status,False,proportional,
+28,"@ShopHelp tracking says 'label created' for 3 days now on order 813390, is it actually shipped??",order_status,False,proportional,
+29,"@ShopHelp just checking in on my order 217659, still says processing",order_status,False,proportional,
+30,@ShopHelp hey where is my order #995993? placed it 14 days ago and tracking hasn't moved,order_status,False,proportional,
+31,"@ShopHelp tracking says 'label created' for 10 days now on order 635167, is it actually shipped??",order_status,False,proportional,
+32,"Hi @ShopHelp, can you tell me the status of order #160541? No shipping confirmation yet.",order_status,False,proportional,
+33,@ShopHelp hey where is my order #103161? placed it 5 days ago and tracking hasn't moved,order_status,False,proportional,
+34,"@ShopHelp tracking says 'label created' for 2 days now on order 667451, is it actually shipped??",order_status,False,proportional,
+35,"@ShopHelp tracking says 'label created' for 8 days now on order 242007, is it actually shipped??",order_status,False,proportional,
+36,"@ShopHelp courier marked 793939 as delivered 14 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,proportional,
+37,@ShopHelp my package for order 233533 shows delivered but I never got it. This is the second time this month!!,delivery_issue,True,proportional,
+38,"@ShopHelp this is unacceptable, order 497700 was supposed to arrive 5 days ago and now tracking just stopped updating",delivery_issue,True,proportional,
+39,"@ShopHelp this is unacceptable, order 860242 was supposed to arrive 3 days ago and now tracking just stopped updating",delivery_issue,True,proportional,
+40,@ShopHelp my package for order 205797 shows delivered but I never got it. This is the second time this month!!,delivery_issue,True,proportional,
+41,"@ShopHelp order 665979 arrived completely crushed, box was soaking wet too",delivery_issue,False,proportional,
+42,"@ShopHelp courier marked 867051 as delivered 7 days ago, nothing on my porch, checked with neighbors too",delivery_issue,False,proportional,
+43,"@ShopHelp courier marked 646571 as delivered 5 days ago, nothing on my porch, checked with neighbors too",delivery_issue,False,proportional,
+44,"@ShopHelp this is unacceptable, order 870925 was supposed to arrive 4 days ago and now tracking just stopped updating",delivery_issue,False,proportional,
+45,"@ShopHelp order 434217 arrived completely crushed, box was soaking wet too",delivery_issue,False,proportional,
+46,"@ShopHelp courier marked 596520 as delivered 5 days ago, nothing on my porch, checked with neighbors too",delivery_issue,False,proportional,
+47,"@ShopHelp order 689704 arrived completely crushed, box was soaking wet too",delivery_issue,True,proportional,
+48,"@ShopHelp courier marked 778120 as delivered 3 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,proportional,
+49,"@ShopHelp order 495489 arrived completely crushed, box was soaking wet too",delivery_issue,True,proportional,
+50,"@ShopHelp order 449138 arrived completely crushed, box was soaking wet too",delivery_issue,False,proportional,
+51,"@ShopHelp order 829417 arrived completely crushed, box was soaking wet too",delivery_issue,True,proportional,
+52,"@ShopHelp courier marked 659572 as delivered 7 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,proportional,
+53,"@ShopHelp order 941814 arrived completely crushed, box was soaking wet too",delivery_issue,True,proportional,
+54,"@ShopHelp courier marked 332022 as delivered 4 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,proportional,
+55,"@ShopHelp order 445888 arrived completely crushed, box was soaking wet too",delivery_issue,True,proportional,
+56,"@ShopHelp this is unacceptable, order 961501 was supposed to arrive 10 days ago and now tracking just stopped updating",delivery_issue,True,proportional,
+57,@ShopHelp my package for order 673095 shows delivered but I never got it. This is the second time this month!!,delivery_issue,False,proportional,
+58,"@ShopHelp this is unacceptable, order 800674 was supposed to arrive 2 days ago and now tracking just stopped updating",delivery_issue,False,proportional,
+59,"@ShopHelp this is unacceptable, order 109585 was supposed to arrive 5 days ago and now tracking just stopped updating",delivery_issue,False,proportional,
+60,"@ShopHelp this is unacceptable, order 116495 was supposed to arrive 2 days ago and now tracking just stopped updating",delivery_issue,False,proportional,
+61,"@ShopHelp this is unacceptable, order 661762 was supposed to arrive 6 days ago and now tracking just stopped updating",delivery_issue,False,proportional,
+62,"@ShopHelp courier marked 352674 as delivered 5 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,proportional,
+63,"@ShopHelp order 525750 arrived completely crushed, box was soaking wet too",delivery_issue,False,proportional,
+64,@ShopHelp my package for order 989053 shows delivered but I never got it. This is the second time this month!!,delivery_issue,False,proportional,
+65,"@ShopHelp I returned item from order 158840 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,proportional,
+66,"@ShopHelp I returned item from order 999636 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+67,"@ShopHelp I returned item from order 148823 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,proportional,
+68,"@ShopHelp I returned item from order 715551 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+69,"@ShopHelp need a refund on order 975194, product is defective, already contacted support twice with no response",refund_request,False,proportional,
+70,"@ShopHelp refund for 462659 still hasn't hit my card after 2 days, your policy says 5-7 business days",refund_request,False,proportional,
+71,"@ShopHelp I returned item from order 743684 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+72,@ShopHelp where's my refund for order 679902?? you people took the item back but never gave my money,refund_request,False,proportional,
+73,"@ShopHelp need a refund on order 847748, product is defective, already contacted support twice with no response",refund_request,False,proportional,
+74,"@ShopHelp I returned item from order 432061 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+75,"@ShopHelp I returned item from order 382870 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,proportional,
+76,"@ShopHelp I returned item from order 637333 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+77,"@ShopHelp I returned item from order 727094 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,proportional,
+78,@ShopHelp where's my refund for order 860053?? you people took the item back but never gave my money,refund_request,True,proportional,
+79,"@ShopHelp I returned item from order 381444 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+80,"@ShopHelp need a refund on order 607753, product is defective, already contacted support twice with no response",refund_request,True,proportional,
+81,"@ShopHelp refund for 242071 still hasn't hit my card after 6 days, your policy says 5-7 business days",refund_request,True,proportional,
+82,"@ShopHelp need a refund on order 551533, product is defective, already contacted support twice with no response",refund_request,True,proportional,
+83,"@ShopHelp refund for 517584 still hasn't hit my card after 7 days, your policy says 5-7 business days",refund_request,True,proportional,
+84,"@ShopHelp I returned item from order 924040 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,proportional,
+85,@ShopHelp where's my refund for order 676820?? you people took the item back but never gave my money,refund_request,False,proportional,
+86,@ShopHelp where's my refund for order 934306?? you people took the item back but never gave my money,refund_request,False,proportional,
+87,"@ShopHelp I returned item from order 849979 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+88,"@ShopHelp I returned item from order 631221 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+89,"@ShopHelp I returned item from order 360289 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,proportional,
+90,@ShopHelp where's my refund for order 203396?? you people took the item back but never gave my money,refund_request,True,proportional,
+91,"@ShopHelp order 812565 arrived with a cracked screen on the jacket, box looked fine so it must've shipped that way",product_defect,False,proportional,
+92,"@ShopHelp order 190025 arrived with a cracked screen on the jacket, box looked fine so it must've shipped that way",product_defect,False,proportional,
+93,"@ShopHelp order 646428 arrived with a cracked screen on the coffee maker, box looked fine so it must've shipped that way",product_defect,False,proportional,
+94,"@ShopHelp the headphones I got in order 414849 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+95,"@ShopHelp the lamp I got in order 876459 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+96,"@ShopHelp backpack from order 584498 is missing parts, can barely use it",product_defect,False,proportional,
+97,"@ShopHelp watch from order 873207 is missing parts, can barely use it",product_defect,False,proportional,
+98,"@ShopHelp headphones from order 315780 is missing parts, can barely use it",product_defect,False,proportional,
+99,"@ShopHelp order 306647 arrived with a cracked screen on the headphones, box looked fine so it must've shipped that way",product_defect,False,proportional,
+100,"@ShopHelp the speaker I got in order 741003 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+101,"@ShopHelp speaker from order 953266 is missing parts, can barely use it",product_defect,False,proportional,
+102,"@ShopHelp order 420214 arrived with a cracked screen on the jacket, box looked fine so it must've shipped that way",product_defect,False,proportional,
+103,"@ShopHelp the backpack I got in order 244564 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+104,"@ShopHelp the jacket I got in order 613426 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+105,"@ShopHelp the jacket I got in order 110048 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+106,"@ShopHelp backpack from order 529008 is missing parts, can barely use it",product_defect,False,proportional,
+107,"@ShopHelp the sneakers I got in order 132359 stopped working after 2 days, this is so disappointing",product_defect,False,proportional,
+108,"@ShopHelp speaker from order 918665 is missing parts, can barely use it",product_defect,False,proportional,
+109,"@ShopHelp order 219754 arrived with a cracked screen on the lamp, box looked fine so it must've shipped that way",product_defect,False,proportional,
+110,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,proportional,
+111,"@ShopHelp I can't log into my account, keeps saying invalid password even after reset",account_access,False,proportional,
+112,"@ShopHelp not receiving the password reset email, checked spam too",account_access,False,proportional,
+113,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,proportional,
+114,"@ShopHelp I can't log into my account, keeps saying invalid password even after reset",account_access,False,proportional,
+115,"@ShopHelp I can't log into my account, keeps saying invalid password even after reset",account_access,False,proportional,
+116,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,proportional,
+117,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,proportional,
+118,"@ShopHelp not receiving the password reset email, checked spam too",account_access,False,proportional,
+119,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,proportional,
+120,"@ShopHelp not receiving the password reset email, checked spam too",account_access,False,proportional,
+121,"@ShopHelp I can't log into my account, keeps saying invalid password even after reset",account_access,False,proportional,
+122,"@ShopHelp not receiving the password reset email, checked spam too",account_access,False,proportional,
+123,"@ShopHelp charged $89 more than what the checkout page showed for order 477943, this better get fixed",billing_dispute,True,proportional,
+124,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 861253?? I never ordered this",billing_dispute,True,proportional,
+125,"@ShopHelp I was charged twice for order 181724, please refund the duplicate charge immediately",billing_dispute,True,proportional,
+126,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 956800?? I never ordered this",billing_dispute,True,proportional,
+127,"@ShopHelp charged $89 more than what the checkout page showed for order 193670, this better get fixed",billing_dispute,True,proportional,
+128,"@ShopHelp I was charged twice for order 952878, please refund the duplicate charge immediately",billing_dispute,True,proportional,
+129,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 323404?? I never ordered this",billing_dispute,True,proportional,
+130,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 246814?? I never ordered this",billing_dispute,True,proportional,
+131,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 246622?? I never ordered this",billing_dispute,True,proportional,
+132,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 856211?? I never ordered this",billing_dispute,True,proportional,
+133,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 297810?? I never ordered this",billing_dispute,True,proportional,
+134,"@ShopHelp I was charged twice for order 352792, please refund the duplicate charge immediately",billing_dispute,True,proportional,
+135,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 979727?? I never ordered this",billing_dispute,True,proportional,
+136,"@ShopHelp need to cancel order 170813 ASAP, ordered wrong size",cancellation,False,proportional,
+137,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+138,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+139,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+140,"@ShopHelp need to cancel order 987586 ASAP, ordered wrong size",cancellation,False,proportional,
+141,"@ShopHelp please cancel order 738407, hasn't shipped yet I hope",cancellation,False,proportional,
+142,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+143,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+144,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+145,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,proportional,
+146,"@ShopHelp please cancel order 264951, hasn't shipped yet I hope",cancellation,False,proportional,
+147,"@ShopHelp really disappointed with my experience lately, used to love shopping here",general_complaint,True,proportional,
+148,"@ShopHelp why is it so hard to get a human on the phone, this app is a mess",general_complaint,True,proportional,
+149,"@ShopHelp your customer service is honestly the worst, been on hold for 40 minutes",general_complaint,True,proportional,
+150,"@ShopHelp why is it so hard to get a human on the phone, this app is a mess",general_complaint,True,proportional,
+151,"@ShopHelp your customer service is honestly the worst, been on hold for 40 minutes",general_complaint,True,proportional,
+152,"@ShopHelp your customer service is honestly the worst, been on hold for 40 minutes",general_complaint,True,proportional,
+153,"@ShopHelp your customer service is honestly the worst, been on hold for 40 minutes",general_complaint,True,proportional,
+154,"@ShopHelp really disappointed with my experience lately, used to love shopping here",general_complaint,True,proportional,
+155,"@ShopHelp fast shipping on order 655550, really impressed, will order again",praise_feedback,False,proportional,
+156,"@ShopHelp love the new app redesign, so much easier to track orders now",praise_feedback,False,proportional,
+157,"@ShopHelp just wanted to say your support team was super helpful resolving my order 629979 today, thank you!",praise_feedback,False,proportional,
+158,"@ShopHelp love the new app redesign, so much easier to track orders now",praise_feedback,False,proportional,
+159,"@ShopHelp love the new app redesign, so much easier to track orders now",praise_feedback,False,proportional,
+160,@ShopHelp do you guys sponsor giveaways? saw one on instagram and wasn't sure if it's real,other,False,proportional,
+161,@ShopHelp do you guys sponsor giveaways? saw one on instagram and wasn't sure if it's real,other,False,proportional,
+162,"@ShopHelp this is the LAST time I order from you, my lawyer will be in touch about order 553201, you people are frauds",billing_dispute,True,hard_case,legal threat -> must escalate regardless of intent
+163,@ShopHelp I'm going to kill myself if I don't get my medication refill order sorted today,other,True,hard_case,"self-harm language -> escalate to human immediately, safety-critical"
+164,"@ShopHelp order 118822 AND order 118830 both never arrived, and you charged me twice for 118830 too, what is going on",delivery_issue,True,hard_case,"multi-intent (delivery + billing) -> escalate, single-intent classifier will underperform here"
+165,"@ShopHelp thanks for nothing, 3rd time this happened, done with this brand",general_complaint,True,hard_case,"vague anger, no actionable ask, repeat-complaint signal"
+166,"@ShopHelp lol your bot just told me to DM you for the 5th time, nobody ever replies",general_complaint,True,hard_case,meta-complaint about the support process itself
+167,@ShopHelp not a complaint just wondering if the blender restocks soon? loved the last one,other,False,hard_case,"looks like praise+question, no real intent bucket fits well"
+168,"@ShopHelp order 778812 fine, no issues, just confirming delivery address is 22 Baker St",order_status,False,hard_case,"benign address confirmation, easy auto-handle"
+169,"@ShopHelp your competitor X has way better prices, why should I keep buying from you",other,False,hard_case,"not a support issue, borderline spam/opinion"
+170,"@ShopHelp URGENT do not process order 991822, I entered the wrong card and it's not mine!!",cancellation,True,hard_case,fraud/urgent financial risk -> escalate despite looking like simple cancellation
+171,@ShopHelp can you just confirm you got my return for order 445210? tracking says delivered to your warehouse,refund_request,False,hard_case,"simple confirmation, low risk, good auto-handle candidate"
+172,@ShopHelp any update on order 443716? it's been 4 days,order_status,False,near_duplicate,paraphrase of historical pattern
+173,@ShopHelp my package for order 413357 shows delivered but I never got it. This is the second time this month!!,delivery_issue,False,near_duplicate,paraphrase of historical pattern
+174,"@ShopHelp I returned item from order 361989 over 2 weeks ago and still no refund, this is ridiculous",refund_request,True,near_duplicate,paraphrase of historical pattern
+175,"@ShopHelp the jacket I got in order 918895 stopped working after 2 days, this is so disappointing",product_defect,False,near_duplicate,paraphrase of historical pattern
+176,"@ShopHelp I can't log into my account, keeps saying invalid password even after reset",account_access,False,near_duplicate,paraphrase of historical pattern
+177,"@ShopHelp I was charged twice for order 988432, please refund the duplicate charge immediately",billing_dispute,True,near_duplicate,paraphrase of historical pattern
+178,"@ShopHelp need to cancel order 554197 ASAP, ordered wrong size",cancellation,False,near_duplicate,paraphrase of historical pattern
+179,"@ShopHelp really disappointed with my experience lately, used to love shopping here",general_complaint,True,near_duplicate,paraphrase of historical pattern
+180,"@ShopHelp fast shipping on order 623125, really impressed, will order again",praise_feedback,False,near_duplicate,paraphrase of historical pattern
+181,@ShopHelp do you guys sponsor giveaways? saw one on instagram and wasn't sure if it's real,other,False,near_duplicate,paraphrase of historical pattern
+182,"@ShopHelp just checking in on my order 919394, still says processing",order_status,False,near_duplicate,paraphrase of historical pattern
+183,"@ShopHelp order 127329 arrived completely crushed, box was soaking wet too",delivery_issue,False,near_duplicate,paraphrase of historical pattern
+184,@ShopHelp where's my refund for order 594596?? you people took the item back but never gave my money,refund_request,False,near_duplicate,paraphrase of historical pattern
+185,"@ShopHelp the blender I got in order 379473 stopped working after 2 days, this is so disappointing",product_defect,False,near_duplicate,paraphrase of historical pattern
+186,"@ShopHelp not receiving the password reset email, checked spam too",account_access,False,near_duplicate,paraphrase of historical pattern
+187,"@ShopHelp there's a charge on my card from you that I don't recognize at all, order 690462?? I never ordered this",billing_dispute,True,near_duplicate,paraphrase of historical pattern
+188,"@ShopHelp need to cancel order 158896 ASAP, ordered wrong size",cancellation,False,near_duplicate,paraphrase of historical pattern
+189,"@ShopHelp really disappointed with my experience lately, used to love shopping here",general_complaint,True,near_duplicate,paraphrase of historical pattern
+190,"@ShopHelp love the new app redesign, so much easier to track orders now",praise_feedback,False,near_duplicate,paraphrase of historical pattern
+191,@ShopHelp do you guys sponsor giveaways? saw one on instagram and wasn't sure if it's real,other,False,near_duplicate,paraphrase of historical pattern
+192,"Hi @ShopHelp, can you tell me the status of order #265154? No shipping confirmation yet.",order_status,False,near_duplicate,paraphrase of historical pattern
+193,"@ShopHelp courier marked 717558 as delivered 4 days ago, nothing on my porch, checked with neighbors too",delivery_issue,True,near_duplicate,paraphrase of historical pattern
+194,"@ShopHelp I returned item from order 101885 over 2 weeks ago and still no refund, this is ridiculous",refund_request,False,near_duplicate,paraphrase of historical pattern
+195,"@ShopHelp order 209167 arrived with a cracked screen on the jacket, box looked fine so it must've shipped that way",product_defect,False,near_duplicate,paraphrase of historical pattern
+196,"@ShopHelp my account got locked after I tried logging in from my new phone, need help ASAP",account_access,False,near_duplicate,paraphrase of historical pattern
+197,"@ShopHelp I was charged twice for order 171087, please refund the duplicate charge immediately",billing_dispute,True,near_duplicate,paraphrase of historical pattern
+198,@ShopHelp how do I cancel my subscription? can't find the option anywhere on the app,cancellation,False,near_duplicate,paraphrase of historical pattern
+199,"@ShopHelp why is it so hard to get a human on the phone, this app is a mess",general_complaint,True,near_duplicate,paraphrase of historical pattern
+200,"@ShopHelp just wanted to say your support team was super helpful resolving my order 986846 today, thank you!",praise_feedback,False,near_duplicate,paraphrase of historical pattern
+201,"@ShopHelp following up from DM, checking if anyone's there",other,False,near_duplicate,paraphrase of historical pattern
